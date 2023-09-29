@@ -5,9 +5,8 @@ In this project, I am going to take a look at the Global Video Game Sales datase
 Link to the dataset here: https://www.kaggle.com/datasets/thedevastator/global-video-game-sales
 
 ## Dashboard
-Click the image to go to the dashboard<br>
 [![Alt text](dashboard_ss.png)]([https://destination](https://public.tableau.com/views/Game_Sales_Dashboard_16958861228720/Game_Sales_Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link))
-
+<br> Link to the dashboard: <br> https://public.tableau.com/views/Game_Sales_Dashboard_16958861228720/Game_Sales_Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 ## Findings
 **What is the best genre to develop a new game for?**
 * Globally, the best genre to develop a new game for would be Action.
