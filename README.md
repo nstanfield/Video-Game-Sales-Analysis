@@ -4,6 +4,13 @@ In this project, I am going to take a look at the Global Video Game Sales datase
 
 Link to the dataset here: https://www.kaggle.com/datasets/thedevastator/global-video-game-sales
 
+## Steps
+ 1. Initial exploration of dataset in Jupyter Notebook file
+ 2. Preparing the data and exploring the features as well as the relationships between them
+ 3. Analyzing the data and creating visualizations to answer questions about the data
+ 4. Creating a Tableau dashboard that represents the data with respect to the questions
+ 5. Based on the questions and analysis, writing down the conclusions from the dataset
+    
 ## Dashboard
 [![Alt text](dashboard_ss.png)]([https://destination](https://public.tableau.com/views/Game_Sales_Dashboard_16958861228720/Game_Sales_Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link))
 <br> Link to the dashboard: <br> https://public.tableau.com/views/Game_Sales_Dashboard_16958861228720/Game_Sales_Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
